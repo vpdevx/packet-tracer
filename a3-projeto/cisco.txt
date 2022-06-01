@@ -1,0 +1,2 @@
+enable secret cisco-secret
+enable password cisco
